@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=VT323&pause=1000&width=435&lines=Currently+on+my+computer)](https://git.io/typing-svg)
+
 <!--
 **PandowLIVE/PandowLIVE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
