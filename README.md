@@ -20,7 +20,7 @@ I'm a self-taught Full-stack & DevOps from France  🇫🇷
 - 💬 Ask me about anything [here](https://github.com/pandowlive/pandowlive/issues)  
 
 <a href="https://github.com/pandowlive/github-readme-stats">
-  <img width="100%" height=200 align-self="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=pandowlive&layout=compact&langs_count=4](https://github-readme-stats.vercel.app/api/top-langs?username=pandowlive&layout=compact&langs_count=4&card_width=320)" />
+  <img width="100%" height=200 align-self="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pandowlive&layout=compact&langs_count=4&card_width=320" />
 </a>
 
 <br />
