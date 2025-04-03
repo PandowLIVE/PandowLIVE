@@ -7,7 +7,7 @@
 
 <br />
 
-I'm a self-taught Full-stack & DevOps from France  🇫🇷
+I'm a self-taught DevOps from France  🇫🇷
 
 **About me**
 
